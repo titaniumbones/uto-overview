@@ -16,3 +16,11 @@ I (Matt) would love to add markdown-based workflow to this list. THis would incl
 
 The main reason I created this repo was to find a place for the [Code of Conduct](./CONDUCT.md).
 
+Some documents we will eventually need to work on, if the project is successful:
+
+- governance
+- mission
+- value
+- vision
+
+etc. 
