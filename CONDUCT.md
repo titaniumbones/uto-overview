@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Online or off, Environmental Data & Governance Initiative (EDGI) is a harrassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion or technical skill level. We do not tolerate harassment of participants in any form.
+Online or off, University of Toronto Outdoors (UTO) is a harrassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion or technical skill level. We do not tolerate harassment of participants in any form.
 
 Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
 
@@ -10,5 +10,5 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Organizers will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your participation!
 
-This document is based on a similar code from [Civic Tech Toronto](http://civictech.ca/about-us/), itself derived from the [Recurse Center’s Social Rules](https://www.recurse.com/manual#sec-environment), and the [anti-harassment policy from the Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy). 
+This document is based on a similar codes from [EDGI](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md) and  [Civic Tech Toronto](http://civictech.ca/about-us/), themselves derived from the [Recurse Center’s Social Rules](https://www.recurse.com/manual#sec-environment), and the [anti-harassment policy from the Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy). 
 
